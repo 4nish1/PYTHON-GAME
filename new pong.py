@@ -32,7 +32,7 @@ score1 = 0
 score2 = 0
 
 # Set up the font for displaying scores
-font = pygame.font.Font(None, 36)
+font = pygame.font.Font(None, 35)
 
 # Main game loop
 while True:
